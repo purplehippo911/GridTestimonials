@@ -10,6 +10,50 @@
 --LightGrayBlue: hsl(210, 46%, 95%);
 }
 
-body {
-    background:black;
+*, *:before, *:after {
+    box-sizing: border-box;
+    box-sizing: inherit;
 }
+
+body {
+    margin:0;
+    padding:0;
+}
+
+.container {
+    min-height:100vh;
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    place-items:center;
+    border:5px solid red;
+}
+
+img[alt="quotation"] {
+    position:fixed;
+    opacity:0.5;
+    border:none;
+}
+
+  .card {
+    width:clamp();
+    padding:2rem;
+    border: 10px solid black;
+  }
+  .card > * {
+    /* border: 5px solid red; */
+  }
+
+  .profile {
+      display:grid;
+      grid-template-columns: auto;
+      grid-auto-flow: column;
+      place-items:center;
+  }
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
