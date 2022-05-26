@@ -9,3 +9,7 @@
  --LightGray: hsl(0, 0%, 81%);
 --LightGrayBlue: hsl(210, 46%, 95%);
 }
+
+body {
+    background:black;
+}
