@@ -30,13 +30,11 @@ body {
   .wrapper {
     margin: 0 auto;
     width:clamp(375px, 100%, 1440px);
-    border:5px solid red;
     display:grid;
   }
   
   /* mobile layout*/
   .container {
-    border: 5px solid green;
     max-width:80%;
     display:grid;
     gap:2rem;
