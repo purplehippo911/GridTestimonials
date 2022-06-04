@@ -31,7 +31,6 @@ Users should be able to:
 Mobile
 ![mobile](design/finished-mobile-layout.png)
 
-
 ### Links
 
 - Solution URL: [My solution](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub/testimonials-grid-section-4ZweO4pMNY=)
