@@ -113,4 +113,5 @@ Thanks to [@mrLuisFer][1] and [@catherineisonline](https://github.com/catherinei
 Don't forget to check out their solutions here:
   -[@mrLuisfer](https://github.com/mrLuisFer/testimonials-section/blob/main/docs/index.html)
 -[@catherineisonline](https://github.com/catherineisonline/testimonials-grid-section-frontendmentor/blob/master/styles.css)
+
 [1]:https://github.com/mrLuisfer                                    
