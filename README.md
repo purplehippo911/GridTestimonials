@@ -92,6 +92,7 @@ I learned how to use grid-template-areas and grid-area in real-life web developm
 ### Continued development
 
 I think I will continue with learning responsiveness with [Kevin Powell's][Responsive] 'Conquering Responsive Layouts'-course. And after that I think i should try to become more comfortable with Javascript and try to learn things like api's or Npm. 
+
 [Responsive]:https://www.kevinpowell.co/courses/
 
 ### Useful resources
